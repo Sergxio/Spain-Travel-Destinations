@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Spain Travel Destinations</h2>
+
+<dl>
+  <dt>Madrid</dt>
+  <h2></h2>
+<img src="https://youropize.net/en/wp-content/uploads/2019/09/Madrid-en-un-Dia-Circulo-de-Bellas-Artes-1.jpg" alt="Trulli" width="500" height="333">
+ <dd>- Capital of Spain, rich in art and culture </dd>
+
+
+  <dt>Barcelona</dt>
+  
+  <dd>- </dd>
+</dl>
+
+</body>
+</html>
