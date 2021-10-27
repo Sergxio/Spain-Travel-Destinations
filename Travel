@@ -1,20 +1,18 @@
 <!DOCTYPE html>
 <html>
 <body>
-
-<h2>Spain Travel Destinations</h2>
-
-<dl>
-  <dt>Madrid</dt>
-  <h2></h2>
-<img src="https://youropize.net/en/wp-content/uploads/2019/09/Madrid-en-un-Dia-Circulo-de-Bellas-Artes-1.jpg" alt="Trulli" width="500" height="333">
- <dd>- Capital of Spain, rich in art and culture </dd>
-
-
-  <dt>Barcelona</dt>
-  
-  <dd>- </dd>
-</dl>
-
-</body>
-</html>
+<p></p>
+<h2><strong><span style="background-color: #ffcc00;">Spain Travel Destinations</span></strong></h2>
+<h4>Madrid</h4>
+<p><img src="https://youropize.net/en/wp-content/uploads/2019/09/Madrid-en-un-Dia-Circulo-de-Bellas-Artes-1.jpg" alt="Trulli" width="507" height="338" /></p>
+<p><span style="font-style: italic;">- Capital of Spain, rich in art and culture. Madrid is perfect for those who love history and art whilst still experiencing the busy and modern city life.</span></p>
+<p><a href="https://www.tripadvisor.co.uk/Attraction_Products-g187514-a_contentId.1188572233575519+268248308-Madrid.html">Things to do in Madrid</a></p>
+<p><span style="font-style: italic;"></span></p>
+<h4>Barcelona</h4>
+<p><span style="font-weight: bold;"><img src="https://www.publicdomainpictures.net/pictures/230000/nahled/colorful-corner-in-barcelona.jpg" width="507" height="347" alt="" /></span></p>
+<p><em>- One of the most unique cities in Spain, Barcelona is a city that represents architecture in its best forms.&nbsp;</em></p>
+<p><a href="https://www.tripadvisor.co.uk/Attraction_Products-g187497-a_contentId.1180875652046920+268248322-Barcelona_Catalonia.html">Things to do in Barcelona</a></p>
+<h4>Seville</h4>
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Plaza_de_Espana%2C_Seville%2C_Spain.jpg" width="507" height="380" alt="" /></p>
+<p><em>- Seville is defined by its traditional Spanish tapas and Spanish culture if you are looking for an unforgettable experience. Seville is perfect for you.&nbsp;</em></p>
+<p><a href="https://www.tripadvisor.co.uk/Attraction_Products-g187443-a_contentId.1187472722105182+268248333-Seville_Province_of_Seville_Andalucia.html">Things to do in Seville</a></p>
